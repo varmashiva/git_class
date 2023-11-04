@@ -7,3 +7,7 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: aliceblue;
 }
+button {
+    background-color: rgb(246, 252, 255);
+    margin-top: 130px;
+}
